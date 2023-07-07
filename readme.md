@@ -5,17 +5,12 @@ CMD (ou l'invite de commandes) est un outil intégré dans les systèmes d'explo
 
 ## 📜 Utiliser CMD sur Discord :
 
-`+cmd {commands}` : utilisation de votre CMD depuis votre bot Discord.
-
-`+task` : savoir les taches en cours sur votre ordinateur.
-
-`+back` : savoir les taches en arriere plan.
-
-`+rmtask` : fermer des taches.
-
-`+screenshot` : prends une capture d'écran de votre ordinateur.
-
-`+cam` : prends une photo depuis votre camera.
+1. `+cmd {commands}` : utilisation de votre CMD depuis votre bot Discord.
+2. `+task` : savoir les taches en cours sur votre ordinateur.
+3. `+back` : savoir les taches en arriere plan.
+4. `+rmtask` : fermer des taches.
+5. `+screenshot` : prends une capture d'écran de votre ordinateur.
+6. `+cam` : prends une photo depuis votre camera.
 
 ## 💼 Installation :
 
